@@ -1,0 +1,17 @@
+.tools/
+build/
+local.properties
+*.jks
+.gradle/
+app/build/
+*.keystore
+*.p12
+*.pfx
+*.apk.idsig
+.env
+.env.*
+!.env.example
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
